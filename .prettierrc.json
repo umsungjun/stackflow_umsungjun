@@ -1,0 +1,22 @@
+{
+    "endOfLine": "lf",
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "semi": true,
+    "tabWidth": 2,
+    "useTabs": false,
+    "printWidth": 80,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "importOrder": [
+        "^react$",
+        "^@?\\w",
+        "^[./]"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "plugins": [
+        "@trivago/prettier-plugin-sort-imports"
+    ]
+}
